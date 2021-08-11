@@ -5,7 +5,7 @@ resource_naming_prefix = "goa-cc-grpname"
 resource_tags = {
     application-id = "TBD",
     application-name = "TBD",
-    backup-business-contact = "paul.jobb@gmail.com",
+    backup-business-contact = "backup.contact@email.com",
     cost-center = "42",
     criticality = "critical",
     environment = "Production",
@@ -14,12 +14,12 @@ resource_tags = {
     hours-of-operation = "24x7",
     internal-order = "42",
     ministry = "Ministry A",
-    primary-business-contact = "paul_jobb@hotmail.com",
+    primary-business-contact = "primary.contact@email.com",
     sector = "Enterprise Services",
     security-classification = "Potected C",
     sos-id = "42",
     stra-id = "42",
-    technical-contact = "paul.jobb@gmail.com"
+    technical-contact = "tech.contact@email.com"
 }
 
 role_groups = [
