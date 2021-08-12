@@ -15,7 +15,7 @@ variable "resource_tags" {
 } 
 
 variable "role_groups" {
-  description = "Groups to assign Contributor access"
+  description = "Groups to assign designated access"
   type = list(object({
       group = string
       role = string
